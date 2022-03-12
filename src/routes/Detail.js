@@ -1,1 +1,5 @@
-export default () => "Detail";
+function Detail() {
+  return <>Detail</>;
+}
+
+export default Detail;
