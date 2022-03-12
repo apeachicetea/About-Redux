@@ -1,5 +1,5 @@
 function Detail() {
-  return <>Detail</>;
+  return null;
 }
 
 export default Detail;

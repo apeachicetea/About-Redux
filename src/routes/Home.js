@@ -9,8 +9,8 @@ function Home() {
 
   function onSubmit(e) {
     e.preventDefault();
+    setText("");
   }
-
   return (
     <>
       <h1>To Do</h1>
